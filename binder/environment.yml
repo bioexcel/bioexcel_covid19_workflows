@@ -1,0 +1,8 @@
+name: bioexcel_cv19
+channels:
+  - conda-forge
+dependencies:
+  - notebook
+  - plotly
+  - nglview
+  - simpletraj
